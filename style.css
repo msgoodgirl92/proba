@@ -123,3 +123,14 @@ body{
 		width:94%;
 	}
 }
+@media screen and (min-width : 1201px ) and (max-width : 1500px) {
+
+		.heading {
+		width:90%;
+
+	}
+	.grid-item {
+		 width: 15%;
+ 
+}
+}
