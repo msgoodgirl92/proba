@@ -83,7 +83,7 @@ body{
 }
 @media screen and (min-width : 767px  ) and (max-width : 962px) {
 	.heading {
-		width:96%;
+		width:82%;
 
 	}
 	.grid {
